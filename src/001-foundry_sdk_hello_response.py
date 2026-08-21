@@ -7,10 +7,15 @@ load_dotenv()
 project_endpoint = os.environ["PROJECT_ENDPOINT"]
 deployment_name = os.environ["MODEL_DEPLOYMENT"]
 
-project = AIProjectClient(endpoint=project_endpoint, credential=DefaultAzureCredential())
+project = AIProjectClient(
+  endpoint=project_endpoint,
+  credential=DefaultAzureCredential()
+)
 client = project.get_openai_client()
-response = client.responses.create(model=deployment_name, input="Hello, who are you?")
-output_text = response.output_text
+response = client.responses.create(
+  model=deployment_name,
+  input="Hello, who are you?"
+)
 
-print(output_text)
+print(f"response output: {response.output_text}")
 

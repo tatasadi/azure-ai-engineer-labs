@@ -1,0 +1,44 @@
+ACME CORP — EMPLOYEE TRAVEL & EXPENSES POLICY
+Document version: 2.4 — Effective 2026-01-01
+Owner: Finance Department (finance@acme.example)
+
+1. PURPOSE
+This policy defines what business travel and work-related expenses ACME Corp
+employees may claim, and the limits that apply to each category. All figures are
+in euros (EUR) unless otherwise stated. Claims that exceed these limits require
+written pre-approval from a line manager.
+
+2. GROUND TRANSPORT
+2.1 Taxi and ride-hailing rides are reimbursed up to a maximum of EUR 50 per ride.
+    Rides above EUR 50 must be pre-approved and accompanied by a written
+    justification.
+2.2 Public transport (bus, tram, metro, train 2nd class) is reimbursed in full
+    with a valid receipt.
+2.3 Personal car mileage is reimbursed at EUR 0.30 per kilometer.
+2.4 Airport parking is reimbursed up to EUR 25 per day.
+
+3. MEALS
+3.1 Daily meal allowance (per diem) is capped at EUR 60 per full travel day.
+3.2 A single business dinner with a client is reimbursed up to EUR 90 per person.
+3.3 Alcoholic beverages are NOT reimbursable under any circumstances.
+
+4. ACCOMMODATION
+4.1 Hotel stays are reimbursed up to EUR 180 per night within Europe.
+4.2 Hotel stays outside Europe are reimbursed up to EUR 240 per night.
+4.3 In-room minibar and pay-per-view charges are not reimbursable.
+
+5. FLIGHTS
+5.1 Economy class is the default for all flights under 6 hours.
+5.2 Premium economy is permitted for flights longer than 6 hours.
+5.3 Business class requires director-level approval regardless of duration.
+
+6. EQUIPMENT & INCIDENTALS
+6.1 Work-related SIM/data while abroad is reimbursed up to EUR 15 per day.
+6.2 Printing and stationery are reimbursed up to EUR 20 per trip.
+
+7. SUBMISSION RULES
+7.1 Expenses must be submitted within 30 days of the expense date.
+7.2 Every claim above EUR 25 requires an itemized receipt.
+7.3 Reimbursement is paid within 14 business days of an approved claim.
+
+END OF POLICY
